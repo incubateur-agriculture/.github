@@ -1,0 +1,1 @@
+![logo](../logo-la-ruche-masa.jpg)
